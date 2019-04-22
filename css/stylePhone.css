@@ -1,0 +1,13 @@
+body{
+	background: url('../img/ph.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: black;
+	background-attachment: fixed;
+	
+}
+
+#contenedor{
+	margin-top: 35%;
+	margin-left: 37%;
+}

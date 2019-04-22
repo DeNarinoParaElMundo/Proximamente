@@ -1,0 +1,13 @@
+body{
+	background: url('../img/cartel.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: black;
+	background-attachment: fixed;
+	
+}
+
+#contenedor{
+	margin-top: 20%;
+	margin-left: 60%;
+}
